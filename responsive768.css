@@ -1,0 +1,21 @@
+@media only screen and (max-width:768px) {
+    .nav ul{
+        display: none;
+    }
+    .logo{
+        display: flex !important;
+    }
+    .two{
+        flex-direction: column-reverse;
+    }
+
+    .left{
+        width: 100%;
+    }
+    .right{
+        width: 100%;
+    }
+    
+    
+    
+}
